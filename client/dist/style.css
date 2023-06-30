@@ -1,0 +1,39 @@
+/* nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+
+  .logo {
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    padding-bottom: 10px;
+  }
+
+  .hero {
+    background-color: rgb(156, 36, 36);
+  }
+
+  span {
+    color: rgb(255, 255, 255);
+  }
+
+  nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav ul li a:hover {
+    color: rgb(255, 255, 255);
+    transition: 0.3s;
+  } */
